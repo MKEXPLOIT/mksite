@@ -13,9 +13,8 @@ export default function Home() {
       <main>
         <Header title="VMK" />
         <p className="description">
-          Eternizando quadros.
-          @prodvmk @vmkvisuals
-<a href="https://www.youtube.com/channel/UC-5DZ2iBhLW6wgIGo2a0cGA"> Youtube </a>
+        <a href="https://www.youtube.com/channel/UC-5DZ2iBhLW6wgIGo2a0cGA"> Youtube </a>
+        <a href="https://open.spotify.com/intl-pt/artist/0EnsJnUjdeUgSodjAEKJUJ"> Spotify </a>
 
 
         </p>
