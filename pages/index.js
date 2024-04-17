@@ -14,6 +14,7 @@ export default function Home() {
         <Header title="VMK" />
         <p className="description">
         <a href="https://www.youtube.com/channel/UC-5DZ2iBhLW6wgIGo2a0cGA"> Youtube </a>
+<br>
         <a href="https://open.spotify.com/intl-pt/artist/0EnsJnUjdeUgSodjAEKJUJ"> Spotify </a>
 
 
