@@ -13,6 +13,7 @@ export default function Home() {
       <main>
         <Header title="VMK" />
         <p className="description">
+          Eternizando quadros.
           @prodvmk @vmkvisuals
 
         </p>
