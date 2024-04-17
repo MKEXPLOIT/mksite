@@ -11,9 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="VMKVISUALS" />
+        <Header title="VMK" />
         <p className="description">
-          @prodvmk
+          @prodvmk @vmkvisuals
+
         </p>
       </main>
 
