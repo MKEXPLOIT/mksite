@@ -16,6 +16,7 @@ export default function Home() {
           Eternizando quadros.
           @prodvmk @vmkvisuals
 
+https://i.pinimg.com/originals/52/ee/db/52eedbd99898f136f9b7b7b9d4395dcc.gif
 
         </p>
       </main>
