@@ -13,9 +13,12 @@ export default function Home() {
       <main>
         <Header title="VMK" />
         <p className="description">
-        <a href="https://www.youtube.com/channel/UC-5DZ2iBhLW6wgIGo2a0cGA"> Youtube </a>
+        <a href="https://www.youtube.com/channel/UC-5DZ2iBhLW6wgIGo2a0cGA"> Youtube </a> <br>
+
 <br>
-        <a href="https://open.spotify.com/intl-pt/artist/0EnsJnUjdeUgSodjAEKJUJ"> Spotify </a>
+        <a href="https://open.spotify.com/intl-pt/artist/0EnsJnUjdeUgSodjAEKJUJ"> Spotify </a> <br>
+
+<a href="https://wa.me/5544988391421?text=Ol%C3%A1%2C+Falo+com+o+Mk+%3F"> Whatsapp </a>
 
 
         </p>
