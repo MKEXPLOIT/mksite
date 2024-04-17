@@ -1,1 +1,7 @@
+section {
+     background-image: url("images/sunset.png");
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center center;
 
+}
