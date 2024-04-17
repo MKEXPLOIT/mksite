@@ -15,8 +15,8 @@ export default function Home() {
         <p className="description">
           Eternizando quadros.
           @prodvmk @vmkvisuals
+<a href="https://www.youtube.com/channel/UC-5DZ2iBhLW6wgIGo2a0cGA"> Youtube </a>
 
-<a> https://i.pinimg.com/originals/52/ee/db/52eedbd99898f136f9b7b7b9d4395dcc.gif </a>
 
         </p>
       </main>
