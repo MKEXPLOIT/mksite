@@ -6,6 +6,9 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+section {
+     background-image: url("images/sunset.png");
+}
         <title>Vmk</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -14,10 +17,6 @@ export default function Home() {
         <Header title="VMK" />
         <p className="description">
         @prodvmk
-
-section {
-     background-image: url("images/sunset.png");
-}
 
 
         </p>
