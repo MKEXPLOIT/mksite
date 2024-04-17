@@ -16,6 +16,10 @@ export default function Home() {
           Eternizando quadros.
           @prodvmk @vmkvisuals
 
+
+        </p>
+      </main>
+
 <script async
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
@@ -26,8 +30,6 @@ export default function Home() {
 >
 </stripe-buy-button>
 
-        </p>
-      </main>
 
       <Footer />
     </div>
