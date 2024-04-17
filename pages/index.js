@@ -16,7 +16,6 @@ export default function Home() {
         <p className="description">
         @prodvmk
 
-     background-image: url("images/sunset.png");
 
 
         </p>
