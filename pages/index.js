@@ -26,8 +26,9 @@ export default function Home() {
         <a href="https://www.behance.net/mikeardanuy"> Behance </a>
         <a href="https://www.youtube.com/playlist?list=PLUhy-9f5jFc8x-lVorojTHwYKAmLLYDxN"> Clipes </a>
         <a href="https://wa.me/5544988391421?text=Ol%C3%A1%2C+Falo+com+o+Mk+%3F"> Contato </a>
-        <p className="description">
-        Musicas 
+      
+      
+      
         <a href="https://open.spotify.com/intl-pt/artist/0EnsJnUjdeUgSodjAEKJUJ"> Spotify </a> 
         <a href="https://www.youtube.com/channel/UC-5DZ2iBhLW6wgIGo2a0cGA"> Youtube </a>
         
