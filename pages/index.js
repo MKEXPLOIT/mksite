@@ -20,7 +20,7 @@ export default function Home() {
                 body {
                     width: 100xw;
                     heigh: 100vh;
-                    background-image: url('./Fundo.png');
+                    background-image: url('./fundo.png');
                 }
 </style>
 
