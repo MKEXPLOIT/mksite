@@ -11,16 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-        
-      <main>
-        <Header title="VMK" />
-        <p className="description">
-        @prodvmk
-
-  
-        </p>
-      </main>
-      <style> 
+    <style> 
               * {
                  margin:0;
                  padding: 0;
@@ -31,17 +22,19 @@ export default function Home() {
                     heigh: 100vh;
                     background-image: url('./Fundo.png');
                 }
-
-
-              
-
-
 </style>
 
-    
+
+        
+      <main>
+        <Header title="VMK" />
+        <p className="description">
+        @prodvmk
 
   
-    
+        </p>
+      </main>
+         
         <a href="https://www.behance.net/mikeardanuy"> Behance </a>
         <a href="https://www.youtube.com/playlist?list=PLUhy-9f5jFc8x-lVorojTHwYKAmLLYDxN"> Clipes </a>
         <a href="https://wa.me/5544988391421?text=Ol%C3%A1%2C+Falo+com+o+Mk+%3F"> Contato </a>
