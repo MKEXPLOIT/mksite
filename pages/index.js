@@ -46,7 +46,15 @@ export default function Home() {
         
 
 
+var tempoVerficacao = 3000;
+setInterval(function(){ 
+    var d = new Date();
+    var hora = d.getHours();
+    if(hora == 22){
+       document.getElementsByTagName("body")[0].style = 'background-image:url("fundo.png");'
+    }
 
+ }, tempoVerficacao);
 
 
       <Footer />
