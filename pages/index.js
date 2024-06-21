@@ -11,19 +11,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-    <style> 
-              * {
-                 margin:0;
-                 padding: 0;
-                 box-sizing: 0; 
-                 }
-                body {
-                    width: 100xw;
-                    heigh: 100vh;
-                    background-image: url('./fundo.png');
-                }
-</style>
-
+       <body background="https://www.canva.com/design/DAGIt7Q7yvQ/_3fA18dH3OxsBSlWHS04BA/view">
+          <center>
+                <img src="fundo.png" width="150! /><br>
+    </center>
+    
 
         
       <main>
@@ -46,15 +38,7 @@ export default function Home() {
         
 
 
-var tempoVerficacao = 3000;
-setInterval(function(){ 
-    var d = new Date();
-    var hora = d.getHours();
-    if(hora == 22){
-       document.getElementsByTagName("body")[0].style = 'background-image:url("fundo.png");'
-    }
 
- }, tempoVerficacao);
 
 
       <Footer />
