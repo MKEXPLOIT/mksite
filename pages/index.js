@@ -20,6 +20,25 @@ export default function Home() {
   
         </p>
       </main>
+      <style> 
+              * {
+                 margin:0;
+                 padding: 0;
+                 box-sizing: 0; 
+                 }
+                body {
+                    width: 100xw;
+                    heigh: 100vh;
+                    background-image: url('./Fundo.jpg');
+                }
+
+
+              
+
+
+</style>
+
+    
 
   
     
