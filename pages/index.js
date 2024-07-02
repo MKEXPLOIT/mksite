@@ -41,12 +41,7 @@ function ImageComponent() {
     <div>
       <h2>fundo.png</h2>
       <img src={exampleImage} alt="fundo.png" />
-    </div>
-  );
-}
-
-export default ImageComponent;
-
+  
 
 
       <Footer />
