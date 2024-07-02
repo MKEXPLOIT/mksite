@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 import React from 'react';
-import exampleImage from '../public/fundo.png'; // Importa a imagem
+import exampleImage from '../public/Fundo.png'; // Importa a imagem
 
 export default function Home() {
   return (
