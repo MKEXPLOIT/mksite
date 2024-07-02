@@ -33,7 +33,19 @@ export default function Home() {
         <a href="https://www.youtube.com/channel/UC-5DZ2iBhLW6wgIGo2a0cGA"> Youtube </a>
         
 
+import React from 'react';
+import exampleImage from '../public/images/fundo.png'; // Importa a imagem
 
+function ImageComponent() {
+  return (
+    <div>
+      <h2>fundo.png</h2>
+      <img src={exampleImage} alt="fundo.png" />
+    </div>
+  );
+}
+
+export default ImageComponent;
 
 
 
