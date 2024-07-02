@@ -11,11 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-     function InserirImagem(url) {
-        let img = document.createElement("img");
-        img.src=url;
-        document.body.appendChild(img);
-    }
+     
 
         
       <main>
