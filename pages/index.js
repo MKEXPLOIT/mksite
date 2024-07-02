@@ -11,11 +11,11 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-       <body background="https://www.canva.com/design/DAGIt7Q7yvQ/_3fA18dH3OxsBSlWHS04BA/view">
-          <center>
-                <img src="fundo.png" width="150! /><br>
-    </center>
-    
+     function InserirImagem(url) {
+        let img = document.createElement("img");
+        img.src=url;
+        document.body.appendChild(img);
+    }
 
         
       <main>
