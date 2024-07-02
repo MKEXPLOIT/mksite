@@ -13,12 +13,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-  function ImageComponent() {
-  return (
-    <div>
-      <h2>fundo.png</h2>
-      <img src={exampleImage} alt="fundo.png" />
-     
 
         
       <main>
