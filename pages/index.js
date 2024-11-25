@@ -9,25 +9,26 @@ export default function Home() {
     <div className="container">
       <Head>
 
-        <title>Vmk</title>
+        <title>rn the mage</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
 
         
       <main>
-        <Header title="VMK" />
+        <Header title="rnthemage" />
         <p className="description">
-        @prodvmk
+        @prodrnk 
 
   
         </p>
       </main>
          
-        <a href="https://www.behance.net/mikeardanuy"> Behance </a>
+        <a href="0x11f3827f2475dd1a6cF8bd1ea0012C9E93CEdc5F"> Buy me a coffe, Wallet. <-- </a>
+        <a href="pix=vmklink@gmail.com"> Buy me a coffe, Wallet. <-- </a>
         <a href="https://www.youtube.com/playlist?list=PLUhy-9f5jFc8x-lVorojTHwYKAmLLYDxN"> Clipes </a>
-        <a href="https://wa.me/5544991001421?text=Ol%C3%A1%2C+Falo+com+o+Mk+%3F"> Contato </a>
-        <a href="https://www.youtube.com/channel/UC-5DZ2iBhLW6wgIGo2a0cGA"> EP Sansara </a>
+        <a href="https://x.com/vm_rnk"> Contato </a>
+        <a href="https://www.youtube.com/@prodrnk3"> Music </a>
         
 
 
